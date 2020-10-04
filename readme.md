@@ -30,3 +30,7 @@ You can pass any valid `pyinstaller` flag in the following command to further cu
 ```sh
 $ python -m eel main.py web --noconsole --onefile --icon=icon.ico
 ```
+
+## finish
+
+Ready, just copy the `dist` folder
